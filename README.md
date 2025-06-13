@@ -12,8 +12,7 @@ A clean, responsive personal portfolio website built using HTML and CSS.
 - CSS3
 
 ## 📌 Live Demo
-[Visit Portfolio](https://yourusername.github.io/portfolio)
-
+[Visit Portfolio](https://gourikajs.github.io/Personal-Portfolio/)
 ## 🙋‍♀️ About Me
 I'm an aspiring web developer and CSE student passionate about building beautiful, functional websites.
 
